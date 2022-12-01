@@ -1,3 +1,9 @@
 [submodule "2019"]
 	path = 2019
 	url = https://github.com/jenarvaezg/aoc2019
+[submodule "2020"]
+	path = 2020
+	url = https://github.com/jenarvaezg/aoc2020
+[submodule "2021"]
+	path = 2021
+	url = https://github.com/jenarvaezg/aoc2021
