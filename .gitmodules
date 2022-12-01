@@ -1,0 +1,3 @@
+[submodule "2019"]
+	path = 2019
+	url = https://github.com/jenarvaezg/aoc2019
