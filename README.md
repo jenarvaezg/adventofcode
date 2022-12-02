@@ -8,6 +8,9 @@
 <a href="https://github.com/jenarvaezg/aoc2022/tree/main/src/solutions/day1.rs">
   <img src="Media/2022/01.png" width="161px">
 </a>
+<a href="https://github.com/jenarvaezg/aoc2022/tree/main/src/solutions/day2.rs">
+  <img src="Media/2022/02.png" width="161px">
+</a>
 <h1 align="center">
   2021 - 36 ⭐
 </h1>
