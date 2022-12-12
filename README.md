@@ -3,7 +3,7 @@
 :
 <!-- AOC TILES BEGIN -->
 <h1 align="center">
-  2022 - 12 ⭐
+  2022 - 24 ⭐
 </h1>
 <a href="https://github.com/jenarvaezg/aoc2022/tree/main/src/solutions/day1.rs">
   <img src="Media/2022/01.png" width="161px">
@@ -22,6 +22,24 @@
 </a>
 <a href="https://github.com/jenarvaezg/aoc2022/tree/main/src/solutions/day6.rs">
   <img src="Media/2022/06.png" width="161px">
+</a>
+<a href="https://github.com/jenarvaezg/aoc2022/tree/main/src/solutions/day7.rs">
+  <img src="Media/2022/07.png" width="161px">
+</a>
+<a href="https://github.com/jenarvaezg/aoc2022/tree/main/src/solutions/day8.rs">
+  <img src="Media/2022/08.png" width="161px">
+</a>
+<a href="https://github.com/jenarvaezg/aoc2022/tree/main/src/solutions/day9.rs">
+  <img src="Media/2022/09.png" width="161px">
+</a>
+<a href="https://github.com/jenarvaezg/aoc2022/tree/main/src/solutions/day10.rs">
+  <img src="Media/2022/10.png" width="161px">
+</a>
+<a href="https://github.com/jenarvaezg/aoc2022/tree/main/src/solutions/day11.rs">
+  <img src="Media/2022/11.png" width="161px">
+</a>
+<a href="https://github.com/jenarvaezg/aoc2022/tree/main/src/solutions/day12.rs">
+  <img src="Media/2022/12.png" width="161px">
 </a>
 <h1 align="center">
   2021 - 36 ⭐
