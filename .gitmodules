@@ -14,3 +14,7 @@
 	path = 2022
 	url = https://github.com/jenarvaezg/aoc2022
 	branch = main
+[submodule "2023"]
+         path = 2023
+         url = https://github.com/jenarvaezg/aoc2023
+         branch = main
