@@ -16,7 +16,6 @@ Then run the script:
     python create_aoc_tiles.py
 """
 import functools
-import itertools
 import math
 from collections import namedtuple
 from functools import cache
@@ -79,8 +78,15 @@ YEAR_CONFIGS = {
         "branch": "main",
         "flat": True,
     },
+    2023: {
+        "year_folder_to_days": "solutions",
+        "day_pattern": r"day([0-9][0-9]{0,1})\.py",
+        "extensions": [".py"],
+        "branch": "main",
+        "flat": True,
+    },
 }
-YEAR_PATTERN = "\d{4}"
+YEAR_PATTERN = r"\d{4}"
 
 
 # You can change this code entirely, or just change patterns above. You get more control if you change the code.
