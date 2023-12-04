@@ -1,12 +1,20 @@
 # adventofcode
 
-:
 <!-- AOC TILES BEGIN -->
 <h1 align="center">
-  2023 - 2 ⭐
+  2023 - 8 ⭐
 </h1>
 <a href="https://github.com/jenarvaezg/aoc2023/tree/main/solutions/day01.py">
   <img src="Media/2023/01.png" width="161px">
+</a>
+<a href="https://github.com/jenarvaezg/aoc2023/tree/main/solutions/day02.py">
+  <img src="Media/2023/02.png" width="161px">
+</a>
+<a href="https://github.com/jenarvaezg/aoc2023/tree/main/solutions/day03.py">
+  <img src="Media/2023/03.png" width="161px">
+</a>
+<a href="https://github.com/jenarvaezg/aoc2023/tree/main/solutions/day04.py">
+  <img src="Media/2023/04.png" width="161px">
 </a>
 <h1 align="center">
   2022 - 32 ⭐
