@@ -2,7 +2,7 @@
 
 <!-- AOC TILES BEGIN -->
 <h1 align="center">
-  2023 - 12 ⭐
+  2023 - 21 ⭐
 </h1>
 <a href="https://github.com/jenarvaezg/aoc2023/tree/main/solutions/day01.py">
   <img src="Media/2023/01.png" width="161px">
@@ -21,6 +21,21 @@
 </a>
 <a href="https://github.com/jenarvaezg/aoc2023/tree/main/solutions/day06.py">
   <img src="Media/2023/06.png" width="161px">
+</a>
+<a href="https://github.com/jenarvaezg/aoc2023/tree/main/solutions/day07.py">
+  <img src="Media/2023/07.png" width="161px">
+</a>
+<a href="https://github.com/jenarvaezg/aoc2023/tree/main/solutions/day08.py">
+  <img src="Media/2023/08.png" width="161px">
+</a>
+<a href="https://github.com/jenarvaezg/aoc2023/tree/main/solutions/day09.py">
+  <img src="Media/2023/09.png" width="161px">
+</a>
+<a href="https://github.com/jenarvaezg/aoc2023/tree/main/solutions/day10.py">
+  <img src="Media/2023/10.png" width="161px">
+</a>
+<a href="https://github.com/jenarvaezg/aoc2023/tree/main/solutions/day11.py">
+  <img src="Media/2023/11.png" width="161px">
 </a>
 <h1 align="center">
   2022 - 32 ⭐
