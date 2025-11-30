@@ -2,6 +2,48 @@
 
 <!-- AOC TILES BEGIN -->
 <h1 align="center">
+  2024 - 26 ⭐
+</h1>
+<a href="https://github.com/jenarvaezg/aoc2024/tree/main/solutions/day01.py">
+  <img src="Media/2024/01.png" width="161px">
+</a>
+<a href="https://github.com/jenarvaezg/aoc2024/tree/main/solutions/day02.py">
+  <img src="Media/2024/02.png" width="161px">
+</a>
+<a href="https://github.com/jenarvaezg/aoc2024/tree/main/solutions/day03.py">
+  <img src="Media/2024/03.png" width="161px">
+</a>
+<a href="https://github.com/jenarvaezg/aoc2024/tree/main/solutions/day04.py">
+  <img src="Media/2024/04.png" width="161px">
+</a>
+<a href="https://github.com/jenarvaezg/aoc2024/tree/main/solutions/day05.py">
+  <img src="Media/2024/05.png" width="161px">
+</a>
+<a href="https://github.com/jenarvaezg/aoc2024/tree/main/solutions/day06.py">
+  <img src="Media/2024/06.png" width="161px">
+</a>
+<a href="https://github.com/jenarvaezg/aoc2024/tree/main/solutions/day07.py">
+  <img src="Media/2024/07.png" width="161px">
+</a>
+<a href="https://github.com/jenarvaezg/aoc2024/tree/main/solutions/day08.py">
+  <img src="Media/2024/08.png" width="161px">
+</a>
+<a href="https://github.com/jenarvaezg/aoc2024/tree/main/solutions/day09.py">
+  <img src="Media/2024/09.png" width="161px">
+</a>
+<a href="https://github.com/jenarvaezg/aoc2024/tree/main/solutions/day10.py">
+  <img src="Media/2024/10.png" width="161px">
+</a>
+<a href="https://github.com/jenarvaezg/aoc2024/tree/main/solutions/day11.py">
+  <img src="Media/2024/11.png" width="161px">
+</a>
+<a href="https://github.com/jenarvaezg/aoc2024/tree/main/solutions/day12.py">
+  <img src="Media/2024/12.png" width="161px">
+</a>
+<a href="https://github.com/jenarvaezg/aoc2024/tree/main/solutions/day13.py">
+  <img src="Media/2024/13.png" width="161px">
+</a>
+<h1 align="center">
   2023 - 21 ⭐
 </h1>
 <a href="https://github.com/jenarvaezg/aoc2023/tree/main/solutions/day01.py">

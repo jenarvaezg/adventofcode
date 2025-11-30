@@ -85,6 +85,13 @@ YEAR_CONFIGS = {
         "branch": "main",
         "flat": True,
     },
+    2024: {
+        "year_folder_to_days": "solutions",
+        "day_pattern": r"day([0-9][0-9]{0,1})\.py",
+        "extensions": [".py"],
+        "branch": "main",
+        "flat": True,
+    },
 }
 YEAR_PATTERN = r"\d{4}"
 
@@ -244,6 +251,7 @@ def parse_leaderboard(html: str) -> dict[int, DayScores]:
 def request_leaderboard(year: int) -> dict[int, DayScores]:
     with open(SESSION_COOKIE_PATH) as cookie_file:
         session_cookie = cookie_file.read().strip()
+        print(session_cookie)
         data = requests.get(
             PERSONAL_LEADERBOARD_URL.format(year=year),
             cookies={"session": session_cookie},
@@ -366,8 +374,9 @@ def generate_day_tile_image(
     # === Right side (P1 & P2) ===
     for part in (1, 2):
         y = 50 if part == 2 else 0
-        time, rank = getattr(day_scores, f"time{part}", None), getattr(
-            day_scores, f"rank{part}", None
+        time, rank = (
+            getattr(day_scores, f"time{part}", None),
+            getattr(day_scores, f"rank{part}", None),
         )
         if day_scores is not None and time is not None:
             drawer.text(
